@@ -1,0 +1,30 @@
+# Diretório de distribuição
+/dist
+
+# Dependências
+node_modules
+
+# Arquivos de log
+*.log
+npm-debug.log*
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Diretórios de cache do editor e do sistema operacional
+.cache
+.vscode
+.idea
+.DS_Store
+
+# Arquivos de compilação temporários
+*.tsbuildinfo
+*.tmp
+*.temp
+
+# Arquivos de cobertura de teste
+/coverage
